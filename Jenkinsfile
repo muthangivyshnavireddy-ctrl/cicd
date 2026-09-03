@@ -20,7 +20,7 @@ echo 'All tests passed successfully!'
 stage('Deploy') {
 steps {
 echo 'Deploying application...'
-echo 'Application deployed successfully!'ss
+echo 'Application deployed successfully!'
 }
 }
 }
